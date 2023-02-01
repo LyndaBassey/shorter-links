@@ -81,12 +81,7 @@ body {
   }
   .link-container1 button {
     width: 100%;
-    /* display: flex; */
     text-align: center;
-    /* padding-left: 150px; */
-    /* padding-right: 150px; */
-    /* padding-top: 10px; */
-    /* padding-bottom: 10px; */
     padding: 10px;
     color: white;
     background: rgb(16, 210, 210);
@@ -96,12 +91,7 @@ body {
     margin-top: 20px;
   }
   .link-container2 button {
-    /* display: flex; */
     text-align: center;
-    /* padding-left: 150px; */
-    /* padding-right: 150px; */
-    /* padding-top: 10px; */
-    /* padding-bottom: 10px; */
     width: 100%;
     color: white;
     padding: 10px;
@@ -112,14 +102,9 @@ body {
     margin-top: 20px;
   }
   .link-container3 button {
-    /* display: flex; */
     width: 100%;
     padding: 10px;
     text-align: center;
-    /* padding-left: 150px; */
-    /* padding-right: 150px; */
-    /* padding-top: 10px; */
-    /* padding-bottom: 10px; */
     color: white;
     background: rgb(16, 210, 210);
     border: none;
@@ -182,7 +167,6 @@ body {
     width: 100%;
     object-fit: cover;
   }
-
   /* hero-section end */
 
   /* input start */
@@ -193,8 +177,6 @@ body {
     height: 175px;
     width: 80%;
     display: block;
-    /* padding-top: 30px; */
-    /* padding-left: 50px; */
     padding: 20px;
   }
   input {
@@ -217,8 +199,6 @@ body {
     font-size: 14px;
   }
   .input-container button {
-    /* padding-left: 118px; */
-    /* padding-right: 118px; */
     width: 100%;
   }
   /* input end  */
@@ -229,7 +209,6 @@ body {
     padding-left: 31px;
     padding-right: 10px;
     padding-top: 120px;
-    /* width: 500px; */
     height: 320vh;
   }
   .section3 h2 {
@@ -244,7 +223,6 @@ body {
     justify-content: center;
     color: grey;
     font-size: 14px;
-    /* white-space: nowrap; */
   }
   /* section3 end */
 
@@ -344,31 +322,19 @@ body {
     margin-right: 40px;
     width: 100%;
   }
-  .hero-section {
-    /* padding-left: 50px; */
-  }
+  
   .hero-section h1 {
     font-size: 34px;
     white-space: nowrap;
   }
-  .hero-section p {
-    /* white-space: nowrap; */
-  }
+  
   .hero-section img {
     padding-top: 50px;
     height: auto;
     width: 100%px;
     object-fit: contain;
   }
-  .input-container {
-    /* width: 380px; */
-  }
-  .section3 {
-    /* width: 480px; */
-  }
-  .boost-link-container {
-    /* width: 480px; */
-  }
+ 
   .line {
     position: absolute;
     top: 228px;
@@ -387,7 +353,5 @@ body {
     width: 30px;
     background-color: rgb(14, 194, 194);
   }
-  footer {
-    /* width: 480px; */
-  }
+ 
 }
